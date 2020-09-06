@@ -1,5 +1,9 @@
 # trello-clone
 
+# Note
+
+This project is archived. it's only a test to learn Vue.js
+
 ## Project setup
 ```
 npm install
